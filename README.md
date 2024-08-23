@@ -4,7 +4,7 @@
   <img src = "https://github.com/Prajwalk09/Power-BI-Dashboard/blob/38d4b657c5a2a8d8e29e15680d530bdb6f3d04dd/Adventure%20Works%20Report.gif" alt="Description of GIF">
 </div>
 
-## Key concepts and skills learned: 
+## Key concepts and Skills learned: 
 ### Connecting and Shaping Data
 - Importing data from various sources
 - Transforming and cleaning data using Power Query Editor
